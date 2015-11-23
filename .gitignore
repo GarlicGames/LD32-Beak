@@ -1,0 +1,45 @@
+#.gitignore
+
+#
+# Binaries
+#
+/Magnet_OGAM/Binaries/
+#
+# Build
+#
+/Magnet_OGAM/Build/WindowsNoEditor/
+#
+# Intemediate
+#
+/Magnet_OGAM/Intermediate/Build/
+/Magnet_OGAM/Intermediate/*.bin
+/Magnet_OGAM/Intermediate/Config/
+/Magnet_OGAM/Intermediate/ProjectFiles/*.user
+/Magnet_OGAM/Intermediate/ProjectFiles/*.vcxproj
+/Magnet_OGAM/Intermediate/ProjectFiles/*.filters
+/Magnet_OGAM/Intermediate/ReimportCache/
+/Magnet_OGAM/Intermediate/Staging/
+#
+# Saved
+#
+/Magnet_OGAM/Saved/
+#
+# Files
+#
+/Magnet_OGAM/*.sdf
+/Magnet_OGAM/*.opensdf
+/Magnet_OGAM/*.suo
+#
+# Source
+#
+/Magnet_OGAM/Source/Magnet_OGAM/Resources/Windows/RCa02488
+#
+# Content
+#
+/Magnet_OGAM/Content/Maps/Testing.umap
+/*.suo
+/Saved
+Intermediate
+/Binaries
+/LD32.sdf
+
